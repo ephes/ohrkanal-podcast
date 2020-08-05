@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ohrkanal
+POSTGRES_USER=IDmuCkKMnsaXHYmFjDXftlAuypLeMepl
+POSTGRES_PASSWORD=llkxby5TaJE4KyMTsNreUQgSX46A962y87UH5vTEtrDUyR6wwvj9CHEE74goavIF
