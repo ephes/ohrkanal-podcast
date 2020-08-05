@@ -41,7 +41,10 @@ RUN sed -i 's/\r$//g' /start
 RUN chmod +x /start
 RUN chown django /start
 COPY ./compose/production/django/bashrc /home/django/.bashrc
-COPY --chown=django:django . /app
+# COPY --chown=django:django . /app
+COPY . /app
+
+RUN chown -R django /app
 
 USER django
 
