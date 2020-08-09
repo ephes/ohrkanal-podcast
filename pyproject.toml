@@ -39,6 +39,7 @@ django-fluent-comments = {git = "https://github.com/ephes/django-fluent-comments
 django-contrib-comments = {git = "https://github.com/ephes/django-contrib-comments"}
 django-cors-headers = "^3.4.0"
 django-cast = "^0.1.28"
+django-allauth = "^0.42.0"
 
 [tool.poetry.dev-dependencies]
 Werkzeug = "^0.16"
