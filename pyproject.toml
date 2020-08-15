@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-podcast"
+name = "ohrkanal-podcast"
 version = "0.1.0"
 description = ""
 authors = ["Jochen Wersdörfer <jochen@wersdoerfer.de>"]
