@@ -42,7 +42,7 @@ django-cast = "^0.1.28"
 django-allauth = "^0.42.0"
 
 [tool.poetry.dev-dependencies]
-Werkzeug = "^0.16"
+Werkzeug = "^2.2"
 pytest = "<5.4"
 pytest-sugar = "^0.9"
 factory-boy = "^2"
